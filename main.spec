@@ -6,7 +6,7 @@ block_cipher = None
 
 a = Analysis(
     ['main.py'],
-    pathex=['D:\\work\\py-tools\\md文档修改标题工具'],
+    pathex=['D:\\work\\py-tools\\font_tool'],
     binaries=[],
     datas=[],
     hiddenimports=[],
@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='文章标题整理',
+    name='字体生成工具',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

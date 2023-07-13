@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
-        <file>assets/img/btnFile.png</file>
+        <file>assets/img/btn_open.png</file>
+        <file>assets/img/btn_export.png</file>
+        <file>assets/img/btn_width.png</file>
     </qresource>
 </RCC>
