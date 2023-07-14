@@ -3,11 +3,14 @@
 
 基于PyQt5开发的位图工具生成器
 
-    - 依赖Python3.7环境
-    - 依赖Pycharm开发工具
-    - 依赖Qt Designer
+- 依赖Python3.7环境
+- 依赖Pycharm开发工具
+- 依赖Qt Designer
 
 下图为工具界面效果展示
+
+
+![image](https://github.com/KingSun5/font_creator/blob/main/assets/git_img/img_1.png)
 
 --------------
 
@@ -25,6 +28,9 @@
 --------------
 
 # 目录介绍
+
+![image](https://github.com/KingSun5/font_creator/blob/main/assets/git_img/img_2.png)
+
 
 - assets
 > 资源目录
