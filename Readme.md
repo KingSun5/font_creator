@@ -16,6 +16,9 @@
 
 # 使用介绍
 
+![image](https://github.com/KingSun5/font_creator/blob/main/assets/git_img/img_3.png)
+
+
 1. 当前版本需要准备对应字体的散图
 2. 散图命名按照实际对应的字符去命名，例如数字1，图片命名为数字1
 3. 通过拖拽文件夹或者通过顶部打开按钮选择对应图片
